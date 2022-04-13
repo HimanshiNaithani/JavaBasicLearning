@@ -55,7 +55,7 @@ public class P3_Task02_OperatorsInJava {
 		System.out.println(g & h); //0
 		System.out.println(g | h); //30
 		System.out.println(g ^ h); //30
-		System.out.println(-g); //-11
+		System.out.println(-g); //-10
 		System.out.println(g << 2); //40
 		System.out.println(g >> 2); //2
 		
